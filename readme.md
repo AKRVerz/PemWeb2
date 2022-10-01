@@ -3,7 +3,7 @@
 <h3 align="center">Tugas Pemrograman Web ke -2 </h3>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: AKRVerz</h3>
 <p align="left">
 </p>
 
